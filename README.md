@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @niklaspfeffer
+- Hi, I’m @niklaspfeffer
 - Geodesy and Geoinformatics Student at KIT
-- 👀 I’m interested in GIS, Remote Sensing, and just programming
-- 🌱 I’m currently learning Python, Javascript and web-GIS 
+- I’m interested in GIS, Remote Sensing, and just programming
+- I’m currently learning Python, Javascript and web-GIS 
 
 
 <!---
